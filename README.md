@@ -8,7 +8,13 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/77560297?v=4"  />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lucas-Machado15.Lucas-Machado15&"  />
+</div>
+
+###
+
+<img align="right" height="250" src="https://raw.githubusercontent.com/Lucas-Machado15/Lucas-Machado15/main/gif.gif"  />
 
 ###
 
@@ -40,14 +46,6 @@
   <a href="https://open.spotify.com/user/22pysqycsx3rvnoyygwsle5lq">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=22pysqycsx3rvnoyygwsle5lq&count=5" alt="Spotify recently played"  />
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lucas-Machado15.Lucas-Machado15&"  />
 </div>
 
 ###
