@@ -14,7 +14,7 @@
 
 ###
 
-<img align="right" height="" src="https://raw.githubusercontent.com/Lucas-Machado15/Lucas-Machado15/main/gif.gif"  />
+<img align="right" height="200" src="https://raw.githubusercontent.com/Lucas-Machado15/Lucas-Machado15/main/gif.gif"  />
 
 ###
 
